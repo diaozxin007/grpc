@@ -33,14 +33,14 @@ Maven:
 ```xml
 <dependency>
     <groupId>io.github.wechaty</groupId>
-    <version>0.11.25</version>
+     <version>0.16.1</version>
     <artifactId>grpc</artifactId>
 </dependency>
 ```
 
 Gradle:
 ```groovy
-compile 'io.github.wechaty:grpc:0.11.25'
+compile 'io.github.wechaty:grpc:0.16.1'
 ```
 
 
